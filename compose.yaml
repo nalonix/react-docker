@@ -1,6 +1,5 @@
-
 services:
-  server:
+  web:
     build:
       context: .
     ports:
